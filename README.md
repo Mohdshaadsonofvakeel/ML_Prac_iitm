@@ -1,0 +1,2 @@
+# ML_Prac_iitm
+ALL GA , KA, GRPA, MODELS, ALGO, EXTRA STUFFF , 
